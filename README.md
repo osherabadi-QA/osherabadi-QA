@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
-# Hi, I'm Osher Abadi 👋
+ Hi, I'm Osher Abadi 👋
 
 ### QA Engineer | Manual QA | Test Automation
 
