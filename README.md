@@ -4,7 +4,9 @@
 
 ### QA Engineer | Manual QA | Test Automation
 
-**Focused on software quality • Python • Playwright • Automation**
+**Currently looking for QA & Test Automation opportunities**
+
+Focused on software quality • Python • Playwright • Automation
 
 <br>
 
@@ -28,17 +30,50 @@
 
 QA Engineer with experience in Manual QA for Web and Mobile applications.
 
-Currently expanding my automation skills using Python, Playwright and Pytest while building practical QA projects.
+Passionate about software quality, bug investigation, and continuously improving my automation skills with Python and Playwright.
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 📱 Mobile QA Testing | Manual QA project including STP, STD, STR, bug reports and usability testing. |
-| 🌐 Web QA Testing | Functional, Regression, Exploratory testing using Jira and TestRail. |
-| 🤖 Python Automation | Automation framework built with Python, Playwright, Pytest and POM. |
+## 📱 Mobile QA Testing Project
+
+Manual QA project for the **Israir Mobile Application**.
+
+- Test Planning
+- Test Cases
+- Test Execution
+- Bug Reports
+- Usability Testing
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+## 🌐 Web QA Testing Project
+
+Manual QA project for a web application.
+
+- Functional Testing
+- Regression Testing
+- Exploratory Testing
+- Jira
+- TestRail
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+## 🤖 Python Automation Project
+
+Automation framework built with:
+
+- Python
+- Playwright
+- Pytest
+- Page Object Model (POM)
+
+🔗 **Repository:** *(Coming Soon)*
 
 ---
 
@@ -49,14 +84,11 @@ Currently expanding my automation skills using Python, Playwright and Pytest whi
 - Functional Testing
 - Regression Testing
 - Exploratory Testing
-- API Testing
-- Mobile Testing
-- Web Testing
-- Bug Reporting
+- Web & Mobile Testing
+- API Testing (Postman)
+- SQL Basics
 - Jira
 - TestRail
-- SQL
-- Postman
 - Figma
 - Chrome DevTools
 
@@ -66,7 +98,7 @@ Currently expanding my automation skills using Python, Playwright and Pytest whi
 - Playwright
 - Pytest
 - Page Object Model
-- Object-Oriented Programming
+- Object-Oriented Programming (OOP)
 
 ### Development
 
@@ -81,18 +113,6 @@ Currently expanding my automation skills using Python, Playwright and Pytest whi
 
 - QA Automation Course
 - Manual QA Course
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=osherabadi-QA&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osherabadi-QA&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ---
 
